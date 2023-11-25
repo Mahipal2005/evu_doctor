@@ -1,0 +1,42 @@
+table {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 60%;
+  margin: auto;
+  margin-top: 50px;
+  text-align: center;
+}
+
+table td,
+table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+  text-align: center;
+}
+#heading{
+  text-align: center;
+  color: rgb(46,96,159);
+}
+
+#mahi{
+  height: 350px;
+  width: 300px;
+  padding: 20px 0 0 40px;
+  border-radius: 4%;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+tr th{
+  height: 30px;
+  width: auto;
+  background-color: rgb(46,96,159);
+}
+#sum{
+  width: 170px;
+  margin-top: 5px;
+  border-radius: 10px;
+  background-color: rgb(46,96,159);
+}
+#mahi2{
+  margin-left: 100px;
+  margin-top: -25%;
+}
